@@ -1,3 +1,6 @@
+<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3444053787490615634" data-style="standard" data-map-hash="11.35/-20.4849/-54.6102" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+
 # TiPadrao
 Codes that i use daily at work, it involves routine automatizations with Selenium, PyAutoGui and other Python libraries.
 
